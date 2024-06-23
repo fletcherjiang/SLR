@@ -6,8 +6,8 @@ This system interprets 24 specific hand gestures representing letters A-Y (exclu
 
 
 ## Demonstration Video
+https://github.com/fletcherjiang/SLR/assets/51084226/50b3a039-bfa4-4289-b972-b85445319e3b
 
-https://github.com/fletcherjiang/SLR/tree/main/video/A1_video.mp4
 
 ## Models
 ### Supported Models
@@ -20,7 +20,9 @@ https://github.com/fletcherjiang/SLR/tree/main/video/A1_video.mp4
 ### Model Selection
 Experiments were performed with SVC and KNN on real-world datasets, whereas CNN was evaluated using simulation data only.
 
-## Dataset
+
+
+ataset
 - **Training**: Sign Language MNIST for initial training. Performance was suboptimal in practical applications, leading to the creation of an original dataset capturing 24 gestures from various angles.
 - **Real-world Testing**: Conducted with custom datasets to better mimic practical usage.
 
