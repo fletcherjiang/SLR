@@ -7,7 +7,7 @@ This system interprets 24 specific hand gestures representing letters A-Y (exclu
 
 ## Demonstration Video
 
-![Demo Video](https://github.com/fletcherjiang/SLR/tree/main/videoA1_video.mp4)
+![Demo Video](https://github.com/fletcherjiang/SLR/tree/main/video/A1_video.mp4)
 
 ## Models
 ### Supported Models
