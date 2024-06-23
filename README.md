@@ -1,4 +1,4 @@
-# Sign Language Recognition System README
+# Sign Language Recognition System
 
 ## Overview
 This system interprets 24 specific hand gestures representing letters A-Y (excluding J and Z) using labels 1-24. It aims to efficiently translate these gestures into text using machine learning models. Considerations for the system's development include data collection, feature extraction, model training, and accuracy improvement.
